@@ -1,1 +1,1 @@
-# amazon_ebay_stock_analysis
+Amazon v eBay stock analysis over the course of one year
